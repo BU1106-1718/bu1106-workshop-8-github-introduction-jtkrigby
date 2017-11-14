@@ -48,17 +48,17 @@ Once you are done be sure to commit your changes (that will save them to the rep
 How many _Pages_ and how many _Content Pages_ are in our KMS (BU1106 Wiki)?
 `Hint: You can use one of the _Special Pages_ to find out. `
 
-**Answer:** Replace this text with your answer.
+169 pages and 24 content pages
 
 
 #### Question 2
 What are the three _Most Wanted Pages_ are in our KMS (BU1106 Wiki), i.e. the pages we link to most, but that don't exist yet?
 `Hint: You can use one of the _Special Pages_ to find out. If there are less than three give me all you found. `
 
-**Answer:** Replace this text with your answer.
+The three most wanted pages are "Category:help", "Github", and Help
 
 #### Question 3
 Give me the names of three _Orphaned Pages_ are in our KMS (BU1106 Wiki), i.e. the pages that are not linked from or transcluded into other pages?
 `Hint: You can use one of the _Special Pages_ to find out. `
 
-**Answer:** Replace this text with your answer.
+"Article Knowledge","How to harvard reference", and Jgregory-haigh"
