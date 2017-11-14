@@ -61,4 +61,4 @@ The three most wanted pages are "Category:help", "Github", and Help
 Give me the names of three _Orphaned Pages_ are in our KMS (BU1106 Wiki), i.e. the pages that are not linked from or transcluded into other pages?
 `Hint: You can use one of the _Special Pages_ to find out. `
 
-"Article Knowledge","How to harvard reference", and Jgregory-haigh"
+The top three orphaned pages are "Article Knowledge","How to harvard reference", and Jgregory-haigh"
